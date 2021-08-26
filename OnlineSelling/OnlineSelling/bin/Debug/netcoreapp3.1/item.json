@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "MaSp": 1,
+      "TenSp": "Dior",
+      "SoLuong": 50,
+      "Gia": 2350000
+    },
+    {
+      "MaSp": 2,
+      "TenSp": "Gucci",
+      "SoLuong": 50,
+      "Gia": 1850000
+    },
+    {
+      "MaSp": 3,
+      "TenSp": "Burberry",
+      "SoLuong": 50,
+      "Gia": 1179000
+    },
+    {
+      "MaSp": 4,
+      "TenSp": "Chanel",
+      "SoLuong": 50,
+      "Gia": 3250000
+    }
+  ]
+}

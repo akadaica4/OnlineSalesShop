@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ol3kjD01/gv+cphz7d+if84uqVE7kqyjXyv2UQ+SkeuezMgSW81F+pyZjDSCOFt0EpXFMP//DGipZtepk9TpSw==",
+  "success": true,
+  "projectFilePath": "D:\\module 2\\CaseStudyModule2.2\\OnlineSalesShop\\OnlineSelling\\OnlineSelling\\OnlineSelling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

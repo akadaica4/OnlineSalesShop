@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Dior",
+      "quantity": 50,
+      "price": 2350000
+    },
+    {
+      "productId": 2,
+      "productName": "Gucci",
+      "quantity": 50,
+      "price": 1850000
+    },
+    {
+      "productId": 3,
+      "productName": "D&G",
+      "quantity": 50,
+      "price": 1179000
+    },
+    {
+      "productId": 4,
+      "productName": "Chanel",
+      "quantity": 50,
+      "price": 3250000
+    }
+  ]
+}

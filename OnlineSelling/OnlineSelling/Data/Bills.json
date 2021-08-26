@@ -1,0 +1,70 @@
+{
+  "Bills": [
+    {
+      "BillId": 1,
+      "Date": "2021-10-10T00:00:00",
+      "IsPaid": false,
+      "TotalAmount": 4429000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Chanel",
+          "Price": 3250000,
+          "Quantity": 1,
+          "Amount": 3250000
+        },
+        {
+          "ProductId": 2,
+          "ProductName": "Burberry",
+          "Price": 1179000,
+          "Quantity": 1,
+          "Amount": 1179000
+        }
+      ]
+    },
+    {
+      "BillId": 2,
+      "Date": "2021-08-26T19:42:18.7149586+07:00",
+      "IsPaid": false,
+      "TotalAmount": 58790000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Dior",
+          "Price": 2350000,
+          "Quantity": 20,
+          "Amount": 47000000
+        },
+        {
+          "ProductId": 3,
+          "ProductName": "Burberry",
+          "Price": 1179000,
+          "Quantity": 10,
+          "Amount": 11790000
+        }
+      ]
+    },
+    {
+      "BillId": 3,
+      "Date": "2021-08-26T20:08:50.9712895+07:00",
+      "IsPaid": false,
+      "TotalAmount": 23200000,
+      "BillDetails": [
+        {
+          "ProductId": 1,
+          "ProductName": "Dior",
+          "Price": 2350000,
+          "Quantity": 2,
+          "Amount": 4700000
+        },
+        {
+          "ProductId": 2,
+          "ProductName": "Gucci",
+          "Price": 1850000,
+          "Quantity": 10,
+          "Amount": 18500000
+        }
+      ]
+    }
+  ]
+}

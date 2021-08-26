@@ -1,0 +1,15 @@
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\bin\Debug\netcoreapp3.1\OnlineSelling.exe
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\bin\Debug\netcoreapp3.1\OnlineSelling.deps.json
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\bin\Debug\netcoreapp3.1\OnlineSelling.runtimeconfig.json
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\bin\Debug\netcoreapp3.1\OnlineSelling.runtimeconfig.dev.json
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\bin\Debug\netcoreapp3.1\OnlineSelling.dll
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\bin\Debug\netcoreapp3.1\OnlineSelling.pdb
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.csproj.AssemblyReference.cache
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.AssemblyInfoInputs.cache
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.AssemblyInfo.cs
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.csproj.CoreCompileInputs.cache
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.dll
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.pdb
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.genruntimeconfig.cache
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\module 2\CaseStudyModule2.2\OnlineSalesShop\OnlineSelling\OnlineSelling\obj\Debug\netcoreapp3.1\OnlineSelling.csproj.CopyComplete
